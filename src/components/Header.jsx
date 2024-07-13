@@ -6,3 +6,5 @@ const HeaderApp= () => {
     )
     
 }
+
+export default  HeaderApp;
